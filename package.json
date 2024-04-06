@@ -36,6 +36,7 @@
     "build:react-rxjs": "cross-env NAME=react-rxjs webpack",
     "build:valtio": "cross-env NAME=valtio webpack",
     "build:mobx-react-lite": "cross-env NAME=mobx-react-lite webpack",
+    "build:global-state": "cross-env NAME=global-state webpack",
     "build-all": "run-s build:*"
   },
   "keywords": [

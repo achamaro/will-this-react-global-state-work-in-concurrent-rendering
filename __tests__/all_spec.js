@@ -34,6 +34,7 @@ const names = [
   'simplux',
   'react-query',
   'mobx-react-lite',
+  'global-state',
 ];
 
 names.forEach((name) => {
